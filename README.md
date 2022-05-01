@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently learning R, SQL, Python.
 - 🔭 I’m currently studying Master of Business Analytics in Monash University.
+- 💬 &nbsp;I can speak English, Mandarin, Cantonese and R (base + tidyverse).
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=ShaineHo)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaineHo)](https://github.com/Christmas/github-readme-stats)
 
