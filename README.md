@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning R, SQL, Python.
 - 🔭 I’m currently studying Master of Business Analytics in Monash University.
-- 💬 &nbsp;I can speak English, Mandarin, Cantonese and R (base + tidyverse).
+- 💬 &nbsp;I can speak English, Mandarin, Cantonese.
 - 🤔 I’m looking for help with programming Languages.
 - 😄 Pronouns: She/Her
 
