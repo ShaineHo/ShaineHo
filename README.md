@@ -1,5 +1,10 @@
 ### Hi there, This is Shaine Ho 👋
 
+
+- 🌱 I’m currently learning R, SQL, Python.
+- 🔭 I’m currently studying Master of Business Analytics in Monash University.
+- 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaineHo)](https://github.com/Christmas/github-readme-stats)
 
 <!--
@@ -17,5 +22,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning R, SQL, Python.
-- 🔭 I’m currently studying Master of Business Analytics in Monash University.
