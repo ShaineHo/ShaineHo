@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning R, SQL, Python.
+- 🔭 I’m currently studying Master of Business Analytics in Monash University.
