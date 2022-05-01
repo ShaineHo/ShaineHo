@@ -6,7 +6,6 @@
 - 💬 &nbsp;I can speak English, Mandarin, Cantonese and R (base + tidyverse).
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ShaineHo)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaineHo)](https://github.com/Christmas/github-readme-stats)
 
 <!--
