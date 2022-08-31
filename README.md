@@ -1,9 +1,11 @@
 ### Hi there, This is Shaine Ho 👋
 
 
-- 🌱 I’m currently learning R, SQL, Python.
-- 🔭 I’m currently studying Master of Business Analytics in Monash University.
-- 💬 &nbsp;I can speak English, Mandarin, Cantonese.
+- 🌱 I’m currently learning R, SQL, Python, Tableau, SAS.
+- 🎉 I got my Bachelor Degree in Economics at Jinnan University 🇨🇳
+- 🎉 I got my Graduate Diploma in Business at Monash University 🇦🇺
+- 🔭 I’m currently studying Msc in Business Data Analytics (QAB Stream) at City University of Hong Kong 🇭🇰
+- 💬 &nbsp;I can speak English, Mandarin, Cantonese and Shanghainese.
 - 🤔 I’m looking for help with programming Languages.
 - 😄 Pronouns: She/Her
 
