@@ -1,7 +1,7 @@
 ### Hi there, This is Shaine Ho 👋
 
 
-- 🌱 I’m currently learning R, SQL, Python, Tableau, SAS.
+- 🌱 I’m currently learning R, SQL, Python, Tableau.
 - 🎉 I got my Bachelor Degree in Economics in Guangzhou 🇨🇳
 - 🎉 I got my Graduate Diploma in Business in Melbourne🇦🇺
 - 🔭 I’m currently studying Msc in Business Data Analytics (QAB Stream) in Hong Kong 🇭🇰
