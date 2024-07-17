@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning R, SQL, Python, Tableau.
 - 🎉 I got my Bachelor Degree in Economics in Guangzhou 🇨🇳
 - 🎉 I got my Graduate Diploma in Business in Melbourne🇦🇺
-- 🔭 I’m currently studying Msc in Business Data Analytics (QAB Stream) in Hong Kong 🇭🇰
+- 🎉 I got my Msc in Business Data Analytics (QAB Stream) in Hong Kong 🇭🇰
 - 💬 &nbsp;I can speak English, Mandarin, Cantonese and Shanghainese.
 - 🤔 I’m looking for help with programming Languages.
 - 😄 Pronouns: She/Her
